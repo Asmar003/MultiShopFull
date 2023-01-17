@@ -6,7 +6,6 @@ namespace MultiShopp.Models
     public class ProductInformation:BaseEntity
     {
         public string Information { get; set; }
-        public int DiscountId { get; set; }
-        public Discount Discount { get; set; }
+        public ICollection<Product> Products { get; set;}
     }
 }

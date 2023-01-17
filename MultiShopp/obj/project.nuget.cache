@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "V2ykMjX0sfz4g0BIUTInnigijugqEsOQB3JyRYEtUl8DrUvGsrjNi4Ml6PotV2zPHdqy6fKnu0W7l+S/r44Fzg==",
+  "dgSpecHash": "PVAvs5k2R6Ss8BN+blMSFTVR+qloXywS1UTfjBZvJlv/YD0kK8XwkffZeuFona657olD1XfxJBK7vWTty8n5Mg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ca.r215.16\\source\\repos\\MultiShopp\\MultiShopp\\MultiShopp.csproj",
   "expectedPackageFiles": [
@@ -77,6 +77,8 @@
     "C:\\Users\\ca.r215.16\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\ca.r215.16\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\ca.r215.16\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\ca.r215.16\\.nuget\\packages\\npgsql\\7.0.1\\npgsql.7.0.1.nupkg.sha512",
+    "C:\\Users\\ca.r215.16\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.1\\npgsql.entityframeworkcore.postgresql.7.0.1.nupkg.sha512",
     "C:\\Users\\ca.r215.16\\.nuget\\packages\\nuget.common\\6.3.1\\nuget.common.6.3.1.nupkg.sha512",
     "C:\\Users\\ca.r215.16\\.nuget\\packages\\nuget.configuration\\6.3.1\\nuget.configuration.6.3.1.nupkg.sha512",
     "C:\\Users\\ca.r215.16\\.nuget\\packages\\nuget.dependencyresolver.core\\6.3.1\\nuget.dependencyresolver.core.6.3.1.nupkg.sha512",

@@ -17,6 +17,5 @@ namespace MultiShopp.Areas.Manage.Controllers
             {
                 return View();
             }
-
         }
 }
