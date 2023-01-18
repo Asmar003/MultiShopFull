@@ -9,57 +9,93 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MultiShopp
 build_property.RootNamespace = MultiShopp
-build_property.ProjectDir = C:\Users\ca.r215.16\source\repos\MultiShopp\MultiShopp\
+build_property.ProjectDir = C:\Users\asmar\OneDrive\İş masası\Multishopp\MultiShopFull\MultiShopp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ca.r215.16\source\repos\MultiShopp\MultiShopp
+build_property.MSBuildProjectDirectory = C:\Users\asmar\OneDrive\İş masası\Multishopp\MultiShopFull\MultiShopp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ca.r215.16/source/repos/MultiShopp/MultiShopp/Areas/Manage/Views/Color/Create.cshtml]
+[C:/Users/asmar/OneDrive/İş masası/Multishopp/MultiShopFull/MultiShopp/Areas/Manage/Views/Addvertising/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEFkZHZlcnRpc2luZ1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asmar/OneDrive/İş masası/Multishopp/MultiShopFull/MultiShopp/Areas/Manage/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXENhdGVnb3J5XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asmar/OneDrive/İş masası/Multishopp/MultiShopFull/MultiShopp/Areas/Manage/Views/Color/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXENvbG9yXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r215.16/source/repos/MultiShopp/MultiShopp/Areas/Manage/Views/Dashboard/Index.cshtml]
+[C:/Users/asmar/OneDrive/İş masası/Multishopp/MultiShopFull/MultiShopp/Areas/Manage/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXERhc2hib2FyZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r215.16/source/repos/MultiShopp/MultiShopp/Areas/Manage/Views/Shared/_Layout.cshtml]
+[C:/Users/asmar/OneDrive/İş masası/Multishopp/MultiShopFull/MultiShopp/Areas/Manage/Views/Discount/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXERpc2NvdW50XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asmar/OneDrive/İş masası/Multishopp/MultiShopFull/MultiShopp/Areas/Manage/Views/ProductImage/ProductImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFByb2R1Y3RJbWFnZVxQcm9kdWN0SW1hZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asmar/OneDrive/İş masası/Multishopp/MultiShopFull/MultiShopp/Areas/Manage/Views/ProductInformation/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFByb2R1Y3RJbmZvcm1hdGlvblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asmar/OneDrive/İş masası/Multishopp/MultiShopFull/MultiShopp/Areas/Manage/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFByb2R1Y3RcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asmar/OneDrive/İş masası/Multishopp/MultiShopFull/MultiShopp/Areas/Manage/Views/Setting/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFNldHRpbmdcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asmar/OneDrive/İş masası/Multishopp/MultiShopFull/MultiShopp/Areas/Manage/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r215.16/source/repos/MultiShopp/MultiShopp/Areas/Manage/Views/_ViewImports.cshtml]
+[C:/Users/asmar/OneDrive/İş masası/Multishopp/MultiShopFull/MultiShopp/Areas/Manage/Views/Size/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFNpemVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asmar/OneDrive/İş masası/Multishopp/MultiShopFull/MultiShopp/Areas/Manage/Views/Slider/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFNsaWRlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asmar/OneDrive/İş masası/Multishopp/MultiShopFull/MultiShopp/Areas/Manage/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r215.16/source/repos/MultiShopp/MultiShopp/Areas/Manage/Views/_ViewStart.cshtml]
+[C:/Users/asmar/OneDrive/İş masası/Multishopp/MultiShopFull/MultiShopp/Areas/Manage/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r215.16/source/repos/MultiShopp/MultiShopp/Views/Home/Cart.cshtml]
+[C:/Users/asmar/OneDrive/İş masası/Multishopp/MultiShopFull/MultiShopp/Views/Home/Cart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r215.16/source/repos/MultiShopp/MultiShopp/Views/Home/Detail.cshtml]
+[C:/Users/asmar/OneDrive/İş masası/Multishopp/MultiShopFull/MultiShopp/Views/Home/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r215.16/source/repos/MultiShopp/MultiShopp/Views/Home/Index.cshtml]
+[C:/Users/asmar/OneDrive/İş masası/Multishopp/MultiShopFull/MultiShopp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r215.16/source/repos/MultiShopp/MultiShopp/Views/Home/Shop.cshtml]
+[C:/Users/asmar/OneDrive/İş masası/Multishopp/MultiShopFull/MultiShopp/Views/Home/Shop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG9wLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r215.16/source/repos/MultiShopp/MultiShopp/Views/_ViewImports.cshtml]
+[C:/Users/asmar/OneDrive/İş masası/Multishopp/MultiShopFull/MultiShopp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r215.16/source/repos/MultiShopp/MultiShopp/Views/_ViewStart.cshtml]
+[C:/Users/asmar/OneDrive/İş masası/Multishopp/MultiShopFull/MultiShopp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r215.16/source/repos/MultiShopp/MultiShopp/Views/Shared/_Layout.cshtml]
+[C:/Users/asmar/OneDrive/İş masası/Multishopp/MultiShopFull/MultiShopp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ae2cqf0qpq

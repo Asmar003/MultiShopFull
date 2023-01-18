@@ -16,7 +16,7 @@ namespace MultiShopp.Areas.Manage.Controllers
         }
         public IActionResult Index()
         {
-            return View();
+            return View(_context.Colors.ToList());
         }
         public IActionResult Create()
         {

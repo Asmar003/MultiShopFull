@@ -1,0 +1,25 @@
+﻿@using MultiShopp.ViewModels.Slider;
+@model CreateSliderVM
+<form class="forms-sample">
+    <div class="form-group">
+        <label for="exampleInputUsername1">PrimaryTitle</label>
+        <input asp-for="PrimaryTitle" type="text" class="form-control" placeholder="PrimaryTitle">
+    </div>
+
+    <div class="form-group">
+        <label for="exampleInputUsername1">SecondaryTitle</label>
+        <input asp-for="SecondaryTitle" type="text" class="form-control" placeholder="SecondaryTitle">
+    </div>
+
+    <div class="form-group">
+        <label for="exampleInputUsername1">Order</label>
+        <input asp-for="Order" type="text" class="form-control" placeholder="Order">
+    </div>
+
+    <div class="form-group">
+        <label for="exampleInputUsername1">ImageUrl</label>
+        <input asp-for="ImageUrl" type="text" class="form-control" placeholder="ImageUrl">
+    </div>
+    <button type="submit" class="btn btn-primary me-2">Submit</button>
+    <button class="btn btn-light">Cancel</button>
+</form>
